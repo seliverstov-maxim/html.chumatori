@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Задача 8</title>	
+</head>
+<body>
+	<h2>Код программы</h2>
+	<p><code>
+		for (int i=0; i &lt; 10; i++)<br>
+		{<br>
+		&nbsp;count&lt;&lt;i&lt;&lt;endl;<br>
+		&nbsp;if (i==5)<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;break; // прекращение цикла<br>
+		}<br>
+	</code></p>
+	<hr>
+	<cite>@www.itmathrepetitor.ru</cite>
+</body>
+</html>
