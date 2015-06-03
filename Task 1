@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html charset=utf-8">
+	<title>Задача 1</title>
+</head>
+<body>
+
+<h3>Стихотворение</h3>
+<p>
+Мириады маленьких дел<br>
+Пьют по капле гаснущий день,<br>
+А <i>дела большие</i> сушит жажда.</br>
+Оставляя все на "потом",<br>
+Прозреваем задним числом,<br>
+Только день <b>не повторится</b> дважды.</br>
+</p>
+<p>И.Тальков</p>
+<!-- Created by Chumatori 03.06.2015 -->
+</body>
+</html>
