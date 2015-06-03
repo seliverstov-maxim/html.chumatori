@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Задача 5</title>
+</head>
+<body>
+	<h2>Статьи</h2>
+	<a name="top"></a>
+	<img src="images/0_f2767_64723619_orig.png" alt="123" title="цифарки">
+	<ol>
+	<li><a href="Task 1.html" title="переход на Task 1">Внутренняя оптимизация сайта</a></li>
+	<li><a href="Task 2.html" title="Task 2">Генерация кнопок</a> сайта</li>
+	<li><a href="Task 3.html" title="Task 3">Перевод текста</a> онлайн</li>
+	<li><a href="Task 4.html" title="Task 4">Сoздание сайта с нуля</a></li>
+	<li><a href="#top" title="Переход на верх">Безопасные семейства шрифтов</a></li>
+	</ol>
+</body>
